@@ -1,0 +1,9 @@
+#big-title {
+	font-family: Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: 10em;
+	color: whitesmoke;
+	text-shadow:
+		0.0625em 0.0625em 0 yellow,
+		0.125em 0.125em 0 orange;
+}
